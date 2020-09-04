@@ -2,8 +2,6 @@
 
 The following list should be reviewed when configuring a MySQL slave instance that you want restore a master backup.
 
-{{toc}}
-
 ## mysqld section
 
 ### innodb_flush_log_at_trx_commit
